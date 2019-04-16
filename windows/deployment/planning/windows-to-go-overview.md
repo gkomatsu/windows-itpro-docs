@@ -14,6 +14,8 @@ ms.topic: article
 
 # Windows To Go: feature overview
 
+**Note**  
+Windows To Go is planned to be deprecated in future releases of Windows 10.
 
 **Applies to**
 
